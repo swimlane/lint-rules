@@ -1,10 +1,12 @@
-# Swimlane Lint Rules
-A collection of linting rules used in Swimlane Development 📏🐼
+# Swimlane Lint Rules - Typescript
+Rules for [tlsint](https://github.com/palantir/tslint) used in Swimlane's Typescript development.
 
-## Languages
-Below are the languages we supply linting rules for
+## Usage
+Install via **npm**:
 
-- [Typescript](Typescript/README.md)
+`npm install --save-dev tslint tslint-config-swimlane`
+
+Add `extends: 'tslint-config-swimlane:base'` to your tslint config
 
 ## Credits
 `lint-rules` is a [Swimlane](http://swimlane.com) open-source project; we
