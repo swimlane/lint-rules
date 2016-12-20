@@ -1,5 +1,5 @@
 # Swimlane Lint Rules - Typescript
-Rules for [tlsint](https://github.com/palantir/tslint) used in Swimlane's Typescript development.
+Rules for [tslint](https://github.com/palantir/tslint) used in Swimlane's Typescript development.
 
 ## Usage
 Install via **npm**:

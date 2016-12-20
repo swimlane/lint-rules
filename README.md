@@ -1,5 +1,5 @@
 # Swimlane Lint Rules
-A collection of linting rules used in Swimlane Development 📏🐼
+A collection of linting rules used in Swimlane Development Projects 📏🐼
 
 ## Languages
 Below are the languages we supply linting rules for
