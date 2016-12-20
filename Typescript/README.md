@@ -1,4 +1,7 @@
 # Swimlane Lint Rules - Typescript
+
+[![npm version](https://badge.fury.io/js/tslint-config-swimlane.svg)](https://badge.fury.io/js/tslint-config-swimlane)
+
 Rules for [tslint](https://github.com/palantir/tslint) used in Swimlane's Typescript development.
 
 ## Usage
