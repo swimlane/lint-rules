@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-swimlane",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "Linting rules for Javascript",
   "main": "base.json",
   "scripts": {
