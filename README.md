@@ -5,6 +5,7 @@ A collection of linting rules used in Swimlane Development Projects 📏🐼
 Below are the languages we supply linting rules for
 
 - [Typescript](Typescript/README.md) [![npm version](https://badge.fury.io/js/tslint-config-swimlane.svg)](https://badge.fury.io/js/tslint-config-swimlane)
+- [Javascript](Javascript/README.md) [![npm version](https://badge.fury.io/js/eslint-config-swimlane.svg)](https://badge.fury.io/js/eslint-config-swimlane)
 
 ## Credits
 `lint-rules` is a [Swimlane](http://swimlane.com) open-source project; we
