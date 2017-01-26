@@ -4,7 +4,7 @@
     "arrow-parens": 0,
     "curly": 0,
     "forin": 0,
-    "indent": ["error", 2],
+    "indent": ["error", 2, { "SwitchCase": 1 }],
     "interface-name": 0,
     "valid-jsdoc": 2,
     "member-access": 0,
