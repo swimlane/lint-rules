@@ -33,7 +33,8 @@
       "check-type"
     ],
     "max-classes-per-file": false,
-    "no-angle-bracket-type-assertion": false
+    "no-angle-bracket-type-assertion": false,
+    "prefer-conditional-expression": false
   },
   "rulesDirectory": []
 }
