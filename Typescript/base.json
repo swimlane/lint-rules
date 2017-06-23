@@ -26,6 +26,8 @@
     "trailing-comma": false,
     "triple-equals": [true, "allow-null-check"],
     "variable-name": [true, "ban-keywords", "check-format", "allow-leading-underscore"],
+    "prefer-object-spread": false,
+    "prefer-conditional-expression": false,
     "whitespace": [true,
       "check-decl",
       "check-operator",
