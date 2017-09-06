@@ -36,7 +36,13 @@
     ],
     "max-classes-per-file": false,
     "no-angle-bracket-type-assertion": false,
-    "prefer-conditional-expression": false
+    "no-submodule-imports": false,
+    "no-unused-expression": [
+      false
+    ],
+    "arrow-return-shorthand": [
+      false
+    ]
   },
   "rulesDirectory": []
 }
