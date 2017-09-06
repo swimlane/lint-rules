@@ -9,7 +9,7 @@ Install via **npm**:
 
 `npm install --save-dev tslint tslint-config-swimlane`
 
-Add `extends: 'tslint-config-swimlane:base'` to your tslint config
+Add `extends: 'tslint-config-swimlane/base'` to your tslint config
 
 ## Credits
 `lint-rules` is a [Swimlane](http://swimlane.com) open-source project; we
