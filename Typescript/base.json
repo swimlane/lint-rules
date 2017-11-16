@@ -12,6 +12,7 @@
     "member-access": false,
     "no-bitwise": false,
     "no-console": [true, "warn"],
+    "no-implicit-dependencies": [true, "dev"],
     "no-reference": false,
     "no-string-literal": false,
     "no-trailing-whitespace": false,
