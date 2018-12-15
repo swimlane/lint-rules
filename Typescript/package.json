@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-swimlane",
-  "version": "3.0.4",
+  "version": "4.0.0",
   "description": "Linting rules for Typescript 2",
   "main": "base.json",
   "repository": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/swimlane/lint-rules/issues"
   },
-  "homepage": "https://github.com/swimlane/lint-rules#readme"
+  "homepage": "https://github.com/swimlane/lint-rules#readme",
+  "dependencies": {
+    "tslint-config-security": "^1.13.0"
+  }
 }
