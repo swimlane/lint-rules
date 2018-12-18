@@ -19,7 +19,9 @@
     "url": "https://github.com/swimlane/lint-rules/issues"
   },
   "homepage": "https://github.com/swimlane/lint-rules#readme",
-  "dependencies": {
+  "peerDependencies": {
+    "tslint": "^5.8.0",
+    "typescript": "^3.0.1",
     "tslint-config-security": "^1.13.0"
   }
 }
