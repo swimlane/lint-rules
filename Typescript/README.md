@@ -7,7 +7,7 @@ Rules for [tslint](https://github.com/palantir/tslint) used in Swimlane's Typesc
 ## Usage
 Install via **npm**:
 
-`npm install --save-dev tslint tslint-config-swimlane`
+`npm install --save-dev tslint tslint-config-security tslint-config-swimlane`
 
 Add `extends: 'tslint-config-swimlane/base'` to your tslint config
 
