@@ -2,6 +2,7 @@
   "extends": ["tslint:latest", "tslint-config-security"],
   "rules": {
     "arrow-parens": false,
+    "arrow-return-shorthand": [false],
     "class-name": true,
     "curly": false,
     "eofline": true,
@@ -9,41 +10,35 @@
     "indent": [true, "spaces"],
     "interface-name": false,
     "jsdoc-format": true,
+    "max-classes-per-file": false,
     "member-access": false,
+    "no-angle-bracket-type-assertion": false,
+    "no-any": true,
+    "no-async-without-await": true,
     "no-bitwise": false,
     "no-console": [true, "warn"],
+    "no-floating-promises": true,
     "no-implicit-dependencies": [true, "dev", "optional"],
     "no-reference": false,
     "no-string-literal": false,
+    "no-submodule-imports": false,
     "no-trailing-whitespace": false,
+    "no-unused-expression": [false],
     "no-var-requires": false,
     "object-literal-key-quotes": [true, "as-needed"],
     "object-literal-sort-keys": false,
     "only-arrow-functions": false,
     "ordered-imports": false,
+    "prefer-conditional-expression": false,
     "prefer-for-of": false,
+    "prefer-object-spread": false,
     "quotemark": [true, "single"],
     "semicolon": [true, "always"],
     "trailing-comma": false,
     "triple-equals": [true, "allow-null-check"],
+    "typedef": [true, "call-signature", "member-variable-declaration", "parameter", "variable-declaration"],
     "variable-name": [true, "ban-keywords", "check-format", "allow-leading-underscore"],
-    "prefer-object-spread": false,
-    "prefer-conditional-expression": false,
-    "whitespace": [true,
-      "check-decl",
-      "check-operator",
-      "check-separator",
-      "check-type"
-    ],
-    "max-classes-per-file": false,
-    "no-angle-bracket-type-assertion": false,
-    "no-submodule-imports": false,
-    "no-unused-expression": [
-      false
-    ],
-    "arrow-return-shorthand": [
-      false
-    ]
+    "whitespace": [true, "check-decl", "check-operator", "check-separator", "check-type"]
   },
   "rulesDirectory": []
 }
