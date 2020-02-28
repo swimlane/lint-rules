@@ -36,7 +36,7 @@
     "semicolon": [true, "always"],
     "trailing-comma": false,
     "triple-equals": [true, "allow-null-check"],
-    "typedef": [true, "call-signature", "member-variable-declaration", "parameter", "variable-declaration"],
+    "typedef": [true, "call-signature", "parameter"],
     "variable-name": [true, "ban-keywords", "check-format", "allow-leading-underscore"],
     "whitespace": [true, "check-decl", "check-operator", "check-separator", "check-type"]
   },
