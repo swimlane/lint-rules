@@ -13,7 +13,7 @@
     "max-classes-per-file": false,
     "member-access": false,
     "no-angle-bracket-type-assertion": false,
-    "no-any": true,
+    "no-any": { "severity": "warning" },
     "no-async-without-await": true,
     "no-bitwise": false,
     "no-console": [true, "warn"],
