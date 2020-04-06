@@ -1,7 +1,7 @@
 {
   "name": "tslint-config-swimlane",
-  "version": "4.0.0",
-  "description": "Linting rules for Typescript 2",
+  "version": "5.0.0",
+  "description": "Linting rules for Typescript",
   "main": "base.json",
   "repository": {
     "type": "git",
